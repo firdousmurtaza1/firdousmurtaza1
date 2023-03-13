@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Firdous Murtuza</h1>
+<h1 align="center">Hi 👋, I'm Firdous Murtaza</h1>
 
 
 - 🌱 I’m currently learning **REACT and Javascript**
